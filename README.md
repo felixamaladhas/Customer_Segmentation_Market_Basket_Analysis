@@ -21,14 +21,15 @@ The Online Retail dataset is a transactional dataset that contains all purchases
 
 Each record in the dataset represents an individual product purchase and includes fields such as:
 
-InvoiceNo: Invoice number (unique for each transaction)
-StockCode: Product/item code
-Description: Name/description of the product
-Quantity: Number of units purchased
-InvoiceDate: Date and time of the transaction
-UnitPrice: Price per unit (in GBP)
-CustomerID: Unique identifier for each customer
-Country: Country where the customer is based
+* InvoiceNo: Invoice number (unique for each transaction)
+* StockCode: Product/item code
+* Description: Name/description of the product
+* Quantity: Number of units purchased
+* InvoiceDate: Date and time of the transaction
+* UnitPrice: Price per unit (in GBP)
+* CustomerID: Unique identifier for each customer
+* Country: Country where the customer is based
+
 This dataset is commonly used for customer analytics tasks such as segmentation, purchase pattern analysis, and association rule mining.
 
 Dataset link: [Customer Segmentation and Market Basket Analysis (Kaggle)](https://www.kaggle.com/code/mgmarques/customer-segmentation-and-market-basket-analysis/notebook)
