@@ -1,4 +1,4 @@
-# Customer_Segmentation_Market_Basket_Analysis
+# Customer Clustering and Purchase Affinity Modeling using ML Predictive Algorithms
 
 Presentation Link: [Customer Segmentation and Market Basket Analysis](https://github.com/user-attachments/files/20475682/Customer.Segmentation.and.Market.Basket.Analysis.pptx)
 
