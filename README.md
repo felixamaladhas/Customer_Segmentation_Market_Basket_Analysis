@@ -1,6 +1,7 @@
 # Customer_Segmentation_Market_Basket_Analysis
 
-Presentation Link:
+Presentation Link:[Customer Segmentation and Market Basket Analysis](https://github.com/user-attachments/files/20475682/Customer.Segmentation.and.Market.Basket.Analysis.pptx)
+
 
 # Objective
 
