@@ -10,7 +10,7 @@ To perform customer segmentation using unsupervised learning and discover purcha
 
 # Problem Statement
 
-How can we segment customers based on their purchasing behavior and identify meaningful associations between purchased products to support data-driven marketing and business decisions?
+How can we segment customers based on their purchasing behavior and identify meaningful associations between purchased products to support data-driven marketing and business decisions.
 
 # Business Understanding
 
